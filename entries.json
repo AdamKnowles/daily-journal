@@ -1,0 +1,26 @@
+{ 
+  "journalEntries":
+[ 
+{
+"name": "Matt",
+"date": "6/7/19",
+"mood": "Happy"
+},
+{
+"name": "Joe",
+"date": "1/7/19",
+"mood": "sad"
+},
+{
+"name": "Ashley",
+"date": "10/9/19",
+"mood": "happy"
+},
+{
+"name": "Melanie",
+"date": "10/9/19",
+"mood": "Somber"
+
+}
+]
+}
